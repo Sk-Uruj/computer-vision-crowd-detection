@@ -1,0 +1,14 @@
+{
+  "name": "Main Entrance Crowd Zone",
+  "description": "Monitoring zone for main campus entrance",
+  "polygon": [
+    [0.25, 0.25],
+    [0.75, 0.25],
+    [0.75, 0.75],
+    [0.25, 0.75]
+  ],
+  "metadata": {
+    "created": "2026-01-15",
+    "camera_id": "CAM_001"
+  }
+}
